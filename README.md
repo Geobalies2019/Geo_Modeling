@@ -10,3 +10,6 @@ The core of conceptual model lies in a proportionality relationship, which can b
 - Statistical models
 ## Deterministic models
 In deterministic models, all the variables and parameters are expressed as functions of distinct spatial and temporal variables. These independent variables are conventionally denoted as x, y, z, and t.
+### Space Dimensions
+- 0D: Only time dependency, no space dependency (Ordinary differential equation).
+- 1D: Has one space dimension. Typically for changes in vertical direction (e.g soil)
